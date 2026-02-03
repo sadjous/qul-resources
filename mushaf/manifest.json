@@ -1,0 +1,17 @@
+{
+  "version": "v4",
+  "pages": 604,
+  "fonts": {
+    "v4_woff": 604,
+    "surah_name": [
+      "surah-name-v4.woff2",
+      "surah-name-v4.ttf"
+    ]
+  },
+  "files": {
+    "words": "v4/words.json",
+    "verse_index": "v4/verse-index.json",
+    "ligatures": "ligatures.json",
+    "ornament": "ornaments/surah-frame.svg"
+  }
+}
